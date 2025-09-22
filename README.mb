@@ -1,0 +1,8 @@
+# Chat WebSocket Simples
+
+Este é um exemplo de chat em tempo real usando **Node.js + Express + ws**.
+
+## 🚀 Como rodar localmente
+```bash
+npm install
+npm start
